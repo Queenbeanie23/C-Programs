@@ -1,7 +1,7 @@
 #include "pch.h"
 using namespace std;
 
-
+// The purspose of this program is to reverse strings 
 string rverseStr(string& strr)
 
 {
